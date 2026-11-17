@@ -1,42 +1,27 @@
 {
-  "name": "Your Name",
-  "description": "Add a short bio here, then swap these starter links for your own.",
+  "name": "healthcaresolutions",
+  "title": "",
+  "description": "Healthcare solutions improve patient care and streamline medical operations through digital tools, efficient workflows, and technology-driven services that support better healthcare experiences.",
   "avatar": "/uploads/avatar-placeholder.svg",
   "showAttribution": true,
-  "kind": "person",
-  "agentReady": true,
   "theme": {
-    "primary": "#6366F1",
-    "secondary": "#4F46E5",
+    "primary": "#536ee5",
+    "secondary": "#536ee5",
     "background": "#FFFFFF",
     "text": "#1F2937"
   },
   "links": [
     {
       "title": "My Website",
-      "subtitle": "yourdomain.com",
-      "url": "https://example.com",
+      "subtitle": "",
+      "url": "https://medcore.software/blog/healthcare-solutions/",
       "icon": "globe"
     },
     {
       "title": "Instagram",
-      "subtitle": "@yourhandle",
-      "url": "https://instagram.com/yourhandle",
+      "subtitle": "",
+      "url": "https://www.instagram.com/medcore_hms/",
       "icon": "instagram"
-    },
-    {
-      "title": "YouTube",
-      "subtitle": "Your channel",
-      "url": "https://youtube.com/@yourhandle",
-      "icon": "youtube"
-    },
-    {
-      "title": "Email me",
-      "subtitle": "you@yourdomain.com",
-      "url": "mailto:you@yourdomain.com",
-      "icon": "mail"
     }
-  ],
-  "metaTitle": "",
-  "metaDescription": ""
+  ]
 }
